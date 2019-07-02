@@ -1,5 +1,36 @@
 {
   "data": [
-    []
+    {
+      "P817012": {
+        "codice": "817012",
+        "Alimentatore": "Elettronico",
+        "Potenza": "99W",
+        "Flusso nominale (Tj=25°C)": "13875LM"
+      },
+      "P817008": {
+        "codice": "817008",
+        "Potenza": "MAX 69W",
+        "Alimentatore": "Elettronico",
+        "Flusso nominale (Tj=25°C)": "9250LM"
+      },
+      "P817024": {
+        "codice": "817024",
+        "Flusso nominale (Tj=25°C)": "27750LM",
+        "Alimentatore": "Elettronico",
+        "Potenza": "MAX 185W"
+      },
+      "P817020": {
+        "codice": "817020",
+        "Flusso nominale (Tj=25°C)": "23125LM",
+        "Alimentatore": "Elettronico",
+        "Potenza": "MAX 155W"
+      },
+      "P817016": {
+        "codice": "817016",
+        "Flusso nominale (Tj=25°C)": "18500LM",
+        "Potenza": "MAX 136W",
+        "Alimentatore": "Elettronico"
+      }
+    }
   ]
 }
